@@ -1,5 +1,5 @@
 # DisplayVoteBot
-Jupyter Notebook implemenation of a a vote bot that allows chat to suggest candidates and vote on them.
+Jupyter Notebook implemenation of a a vote bot that allows a Twitch chatroom to suggest candidates and vote on them.
 Uses TwitchWebsocket by tomaarsen: https://github.com/tomaarsen/TwitchWebsocket
 
 Before Running this tool, you need to set up the "settings.json" file.
