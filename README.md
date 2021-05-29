@@ -8,3 +8,6 @@ Log on to your bot account, and then use this tool to generate a token:
   https://twitchapps.com/tmi/
   
 Add your information in the required fields in the .json file.
+
+# Updates
+Planning on building this out with a Tkinter menu system instead of Jupyter and integrating the random collection with strawpoll.me
